@@ -1,0 +1,9 @@
+[hypervisors]
+hyp1.local
+hyp2.local
+hyp3.local
+hyp4.local
+[controllers]
+controller1.local
+controller2.local
+controller3.local
